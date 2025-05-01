@@ -6,7 +6,6 @@ payload:
   - "DOMAIN-SUFFIX,applovin.com,🚀 节点选择"
   - "DOMAIN-KEYWORD,adobe,REJECT"
   - "DOMAIN-SUFFIX,docker.io,🇺🇲 美国节点"
-  - "IP-CIDR,172.24.21.0/16,🟢 直连"
   - "DOMAIN-SUFFIX,gt.com,🟢 直连"
   - "DOMAIN-SUFFIX,app.clipchamp.com,🚀 节点选择"
   - "DOMAIN-SUFFIX,zlivegame.com,🟢 直连"
@@ -14,4 +13,5 @@ payload:
   - "DOMAIN-SUFFIX,ninjasvillage.com,🟢 直连"
   - "DOMAIN-SUFFIX,goddessidle.com,🟢 直连"
   - "DOMAIN-SUFFIX,starwavenet.com,🟢 直连"
-  - "IP-CIDR,10.10.0.0/12,🟢 直连"
+  - "DOMAIN-SUFFIX,www.animon.ai,🤖 ChatGPT"
+  - 
