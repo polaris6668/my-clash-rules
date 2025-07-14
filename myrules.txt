@@ -9,9 +9,9 @@ DOMAIN-SUFFIX,docker.io,🇺🇲 美国节点
 IP-CIDR,172.24.21.0/16,🎯 直连
 DOMAIN-SUFFIX,gt.com,🎯 直连
 DOMAIN-SUFFIX,app.clipchamp.com,🚀 默认代理
-DOMAIN-SUFFIX,zlivegame.com,🎯 直连 
-DOMAIN-SUFFIX,ninjaorigin.com,🎯 直连
-DOMAIN-SUFFIX,ninjasvillage.com,🎯 直连
-DOMAIN-SUFFIX,goddessidle.com,🎯 直连
-DOMAIN-SUFFIX,starwavenet.com,🎯 直连
-DOMAIN-SUFFIX,starwavenet.com,🎯 直连
+DOMAIN-SUFFIX,zlivegame.com,🚀 默认代理 
+DOMAIN-SUFFIX,ninjaorigin.com,🚀 默认代理
+DOMAIN-SUFFIX,ninjasvillage.com,🚀 默认代理
+DOMAIN-SUFFIX,goddessidle.com,🚀 默认代理
+DOMAIN-SUFFIX,starwavenet.com,🚀 默认代理
+DOMAIN-SUFFIX,starwavenet.com,🚀 默认代理
