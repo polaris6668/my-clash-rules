@@ -1,0 +1,4 @@
+# 这是一个注释，以 # 开头的行将被忽略
+DOMAIN-SUFFIX,adobe.com,REJECT  
+DOMAIN-SUFFIX,adobe.io,REJECT 
+DOMAIN-KEYWORD,adobe,REJECT
