@@ -1,5 +1,5 @@
 # 这是一个注释，以 # 开头的行将被忽略 
-DOMAIN-KEYWORD,appsflyer.com,🎯 直连
-IP-CIDR,172.24.21.0/16,🎯 直连
-DOMAIN-SUFFIX,gt.com,🎯 直连
+DOMAIN-KEYWORD,appsflyer.com
+IP-CIDR,172.24.21.0/16
+DOMAIN-SUFFIX,gt.com
 
