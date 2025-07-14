@@ -1,9 +1,9 @@
 # 这是一个注释，以 # 开头的行将被忽略
-DOMAIN-SUFFIX,applovin.com,🚀 默认代理   
-DOMAIN-SUFFIX,app.clipchamp.com,🚀 默认代理
-DOMAIN-SUFFIX,zlivegame.com,🚀 默认代理 
-DOMAIN-SUFFIX,ninjaorigin.com,🚀 默认代理
-DOMAIN-SUFFIX,ninjasvillage.com,🚀 默认代理
-DOMAIN-SUFFIX,goddessidle.com,🚀 默认代理
-DOMAIN-SUFFIX,starwavenet.com,🚀 默认代理
-DOMAIN-SUFFIX,starwavenet.com,🚀 默认代理
+DOMAIN-SUFFIX,applovin.com
+DOMAIN-SUFFIX,app.clipchamp.com
+DOMAIN-SUFFIX,zlivegame.com
+DOMAIN-SUFFIX,ninjaorigin.com
+DOMAIN-SUFFIX,ninjasvillage.com
+DOMAIN-SUFFIX,goddessidle.com
+DOMAIN-SUFFIX,starwavenet.com
+DOMAIN-SUFFIX,starwavenet.com
