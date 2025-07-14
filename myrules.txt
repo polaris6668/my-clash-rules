@@ -3,7 +3,7 @@ DOMAIN-SUFFIX,www.animon.ai,🤖 ChatGPT
 DOMAIN-SUFFIX,adobe.com,REJECT  
 DOMAIN-SUFFIX,adobe.io,REJECT 
 DOMAIN-SUFFIX,applovin.com,🚀 默认代理   
-DOMAIN-SUFFIX,appsflyer.com,🎯 直连
+DOMAIN-KEYWORD,appsflyer.com,🎯 直连
 DOMAIN-KEYWORD,adobe,REJECT
 DOMAIN-SUFFIX,docker.io,🇺🇲 美国节点
 IP-CIDR,172.24.21.0/16,🎯 直连
