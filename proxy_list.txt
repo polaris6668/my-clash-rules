@@ -7,3 +7,4 @@ DOMAIN-SUFFIX,ninjasvillage.com
 DOMAIN-SUFFIX,goddessidle.com
 DOMAIN-SUFFIX,starwavenet.com
 DOMAIN-SUFFIX,starwavenet.com
+DOMAIN-SUFFIX,kancolle-server.com
