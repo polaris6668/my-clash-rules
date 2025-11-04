@@ -3,5 +3,7 @@ DOMAIN-KEYWORD,appsflyer.com
 IP-CIDR,172.24.21.0/16
 DOMAIN-SUFFIX,gt.com
 DOMAIN-SUFFIX,td.goddessidle.com
+KEYWORD,appfflyer.com
+DOMAIN-SUFFIX,appfflyer.com
 
 
