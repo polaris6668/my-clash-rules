@@ -1,0 +1,10 @@
+# Hugging Face 模型站
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,hf.co
+
+# Civitai 模型站
+DOMAIN-SUFFIX,civitai.com
+
+# 其他大文件服务 (按需取消注释)
+# DOMAIN-SUFFIX,mega.nz
+# DOMAIN-SUFFIX,mediafire.com
